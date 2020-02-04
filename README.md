@@ -1,1 +1,1 @@
-💈 A Node.js API for barber shops.
+💈🍺 A Node.js API for barber shops.
